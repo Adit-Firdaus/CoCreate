@@ -394,7 +394,7 @@ PrefabInstance:
     - target: {fileID: 7876700510684388985, guid: 8b635fe95868d6f43b7d6abe96962bdc,
         type: 3}
       propertyPath: m_Name
-      value: Dashboard
+      value: Dashboard Variant
       objectReference: {fileID: 0}
     - target: {fileID: 7876700510684388985, guid: 8b635fe95868d6f43b7d6abe96962bdc,
         type: 3}
